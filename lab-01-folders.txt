@@ -1,0 +1,10 @@
+total 0
+-rw-r--r--  1 erikakoopmans  staff    0 Mar 31 17:00 lab-01-folders.txt
+drwxr-xr-x  4 erikakoopmans  staff  128 Mar 31 16:59 p1
+drwxr-xr-x  2 erikakoopmans  staff   64 Mar 31 15:59 p2
+drwxr-xr-x  2 erikakoopmans  staff   64 Mar 31 15:59 p3
+drwxr-xr-x  2 erikakoopmans  staff   64 Mar 31 16:00 p4
+drwxr-xr-x  2 erikakoopmans  staff   64 Mar 31 16:00 p5
+drwxr-xr-x  2 erikakoopmans  staff   64 Mar 31 16:00 p6
+drwxr-xr-x  2 erikakoopmans  staff   64 Mar 31 16:01 p7
+drwxr-xr-x  2 erikakoopmans  staff   64 Mar 31 16:01 p8

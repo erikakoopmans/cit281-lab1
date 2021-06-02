@@ -1,0 +1,15 @@
+Copy selected text to buffer Command+C
+Paste from buffer Command+V
+Cut selected text to buffer (selected text is deleted) Command+X
+Save current file in VSCode Command+S
+Toggle block comment in VSCode 
+Toggle line comment in VSCode
+Move cursor from word to word right Option+Right Arrow
+Move cursor from word to word left Option+Left Arrow
+Select word right Shift+Opt+Right, Opt+Right
+Select word left Shift+Opt+Left, Opt+Left
+Select all contents Command+A
+Select current line, including end of line character Command+L
+Jump to start of line Command+Left Arrow
+Jump to end of line Command+Right Arrow
+Jump to beginning of current file Command+Up Arrow
